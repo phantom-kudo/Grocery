@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "889781404829",
+    "project_id": "grocery-6c89a",
+    "storage_bucket": "grocery-6c89a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889781404829:android:40c74576808d7e96248074",
+        "android_client_info": {
+          "package_name": "com.example.grocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889781404829-fqmhdltv149a9694jh10k3rkvb1gaun2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqA0syOK0ucnIx3my2xUuZb89BxC9F61Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889781404829-fqmhdltv149a9694jh10k3rkvb1gaun2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889781404829:android:e905b79cec2493fd248074",
+        "android_client_info": {
+          "package_name": "com.phantomlabs.grocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889781404829-fqmhdltv149a9694jh10k3rkvb1gaun2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqA0syOK0ucnIx3my2xUuZb89BxC9F61Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889781404829-fqmhdltv149a9694jh10k3rkvb1gaun2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
